@@ -1,0 +1,95 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("d:/wamp/bin/" . "apache/")
+ ("d:/wamp/" . "bin/")
+ ("d:/www/aile_test/" . "test/")
+ ("d:/www/Aile/resources/" . "views/")
+ ("d:/www/Aile/app/Http/" . "Controllers/")
+ ("d:/www/Aile/app/" . "Http/")
+ ("d:/www/Aile/" . "app/")
+ ("d:/www/" . "Aile/")
+ ("d:/" . "www/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "c:/Users/Administrator/AppData/Local/Temp/HZ$D.710.1250/HZ$D.710.1255/Learn-Laravel-5-tutorial_1/app/Http/Middleware/"
+ "d:/www/Aile/app/"
+ "d:/上传盘/"
+ "d:/www/Aile/"
+ "d:/wamp/bin/apache/"
+ "d:/emacs/"
+ "d:/www/Aile/resources/views/"
+ "d:/www/Aile/resources/views/_layouts/"
+ "d:/www/Aile/app/Http/Controllers/"
+ "d:/www/Aile/app/Http/"
+ "d:/www/Aile/app/Http/Controllers/Admin/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".emacs"
+ "routes.php"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("c:/Users/Administrator/AppData/Roaming/.emacs.d/elpa/es-lib-20141111.1030/" (22471 52515 0 0) "es-lib.elc" "es-lib.el" "es-lib-total-line.elc" "es-lib-total-line.el" "es-lib-text-navigate.elc" "es-lib-text-navigate.el" "es-lib-readme-generator.elc" "es-lib-readme-generator.el" "es-lib-pkg.el" "es-lib-lexical.elc" "es-lib-lexical.el" "es-lib-core-macros.elc" "es-lib-core-macros.el" "es-lib-core-functions.elc" "es-lib-core-functions.el" "es-lib-buffer-local-set-key.elc" "es-lib-buffer-local-set-key.el" "es-lib-autoloads.el" "../" "./")
+
+ ("d:/www/Aile/resources/" (22053 42788 0 0) "views/" "lang/" "assets/" "../" "./")
+
+ ("d:/www/Aile/resources/views/" (22469 19523 0 0) "_layouts/" "welcome.blade.php" "viewfile/" "vendor/" "test.blade.php" "mainPageJsandCss.blade.php" "main.blade.php" "login.blade.php" "home.blade.php" "GeneralHeader.blade.php" "foot.blade.php" "errors/" "emails/" "courseAppointment.blade.php" "body.blade.php" "blank.blade.php" "auth/" "app.blade.php" "AdminHome.blade.php" "admin/" "addAppointment.blade.php" "../" "./")
+
+ ("d:/www/Aile/app/Http/Controllers/" (22259 51881 0 0) "WelcomeController.php" "uploadcontroller" "tryController.php" "QuickUnion.php" "Main/" "HomeController.php" "CourseAppointmentController.php" "Controller.php" "CenterController.php" "Auth/" "Admin/" "../" "./")
+
+ ("d:/www/Aile/" (22385 62227 0 0) "vendor/" "tests/" "storage/" "server.php" "resources/" "readme.md" "public/" "phpunit.xml" "phpspec.yml" "package.json" "gulpfile.js" "foot.blade.php" "database/" "config/" "composer.lock" "composer.json" "bootstrap/" "artisan" "app/" "al_article.sql" ".settings/" ".project.sublime-workspace" ".project" ".idea/" ".gitignore" ".gitattributes" ".git/" ".env" ".buildpath" "../" "./")
+
+ ("d:/www/Aile/app/" (22259 22543 0 0) "User.php" "Services/" "Providers/" "Page.php" "News.php" "Listeners/" "Jobs/" "Http/" "Handlers/" "Function/" "Faculty.php" "Exceptions/" "Events/" "CourseAppointment.php" "Console/" "Comment.php" "Commands/" "Center.php" "Article.php" "Activity.php" "activeCenter.php" "../" "./")
+
+ ("d:/emacs/bin/" (22218 49198 0 0) "runemacs.exe" "libXpm.dll" "grep-changelog" "etags.exe" "emacsclientw.exe" "emacsclient.exe" "emacs.exe" "emacs-24.5.exe" "ebrowse.exe" "ctags.exe" "addpm.exe" "../" "./")
+
+ ("d:/www/" (22218 30957 0 0) "新建文本文档.txt" "zhihu-py3/" "wordBor.php" "todo/" "spwc.php" "setpwc.php" "session_demo.php" "save_state.php" "prefs_session.php" "phpmail.php" "MyBB1803chsFPbuild141126utf8.zip" "MyBB1803chsFPbuild141126utf8/" "HelloWorld.java" "hello.php" "drupal/" "countBMI.py" "countBMI" "company/" "colors.php" "codewars/" "codespace/" "Buffon.php" "bootstrap-cms/" "bihu/" "bbs/" "aile_test/" "aile_lara/" "AileDjango/" "Aile/" ".metadata/" "../" "./")
+
+ ("d:/www/Aile/app/Http/Controllers/Admin/" (22053 42787 0 0) "PagesController.php" "AdminHomeController.php" "../" "./")
+
+ ("d:/www/Aile/app/Http/" (22053 42787 0 0) "routes.php" "Requests/" "Middleware/" "Kernel.php" "Controllers/" "../" "./")
+
+ ("d:/www/Aile/resources/views/_layouts/" (22053 42788 0 0) "saparateParts/" "../" "./")
+
+ ("d:/wamp/bin/apache/" (21941 57053 0 0) "apache2.4.9/" "../" "./")
+
+ ("d:/上传盘/" (22048 54278 0 0) "weixintuijian3.html" "weixintuijian2.html" "weixintuijian2.css" "weixintuijian1.html" "weixintuijian.php" "weixintuijian.html" "wechatshareicon.jpg" "WeChatShare.js" "wechatap.php" "uploadfiles.zip" "uploadfiles/" "Upload/" "test.html" "tel_gray_icon.png" "sy_sba05.jpg" "sy_sba01.jpg" "style_index.css" "style_boox1.css" "style10_15.css" "sample.php" "retrive2.png" "retrive.png" "processing.jpg" "newwebsite/" "newstyle.css" "love.rar" "love/" "jssdk.php" "jsapi_ticket.json" "Join/" "index.html" "images.rar" "images/" "ilovegym1/" "ilovegym-new-3/" "ilovegym-new/" "extract.png" "expand.png" "css.zip" "css/" "chengduindex.html" "button923.png" "book_icon.png" "book.html" "bg_gray.png" "banner_4.jpg" "banner_3.jpg" "banner_2.jpg" "arrow.png" "al_kechengyuyue.sql" "aileBC.rar" "aileA.rar" "aile215-10-8.rar" "aile0120.sql" "aile0120-9-28.sql" "aile.rar" "admincp.php" "access_token.json" "8-18al_kechengyuyue.sql" "8-18al_jiamengyuyue.sql" "201510.rar" "201508.zip" "201508/" "1-1.jpg" ".jssdk.php.swp" "../" "./")
+
+ ("e:/javaalgorith/" (22218 48713 0 0) "Puppy.java" "HelloWorld.java" "HelloWorld.class" ".#Puppy.java" "../" "./")
+
+ ("c:/Users/Administrator/AppData/Roaming/.emacs.d/" (22218 44904 0 0) "var/" "test-startup.sh" "site-lisp/" "server/" "recentf" "README.md" "org-clock-save.el" "lisp/" "LICENSE" "init.el" "ido.last" "history" "emacs.d/" "elpa/" "custom.el" "auto-save-list/" "ac-comphist.dat" ".travis.yml" ".smex-items" ".session" ".gitignore" ".gitattributes" ".git/" ".emacs.desktop.lock" ".emacs.desktop" ".agignore" ".#LICENSE" "#init.el#" "../" "./")
+
+ ("d:/wamp/bin/apache/apache2.4.9/" (21890 9761 0 0) "wampserver.conf" "README.txt" "OPENSSL-README.txt" "OPENSSL-NEWS.txt" "NOTICE.txt" "modules/" "manual/" "logs/" "LICENSE.txt" "lib/" "INSTALL.txt" "include/" "icons/" "htdocs/" "extra-modules/" "error/" "conf/" "CHANGES.txt" "cgi-bin/" "bin/" "ABOUT_APACHE.txt" "../" "./")
+
+ ("d:/wamp/bin/apache/apache2.4.9/conf/" (21916 49290 0 0) "wampserver.conf" "original/" "openssl.cnf" "mime.types" "magic" "httpd.conf.build" "httpd.conf" "extra/" "charset.conv" "../" "./")
+
+ ("d:/wamp/bin/" (21890 9774 0 0) "php/" "mysql/" "apache/" "../" "./")
+
+ ("d:/wamp/" (21890 9879 0 0) "www/" "wampmanager.tpl" "wampmanager.ini" "wampmanager.exe" "wampmanager.conf" "vhosts/" "uninstall_services.bat" "unins000.exe" "unins000.dat" "tools/" "tmp/" "scripts/" "logs/" "license.txt" "lang/" "images_on.bmp" "images_off.bmp" "bin/" "barimage.bmp" "apps/" "alias/" "../" "./")
+
+ ("d:/www/.metadata/" (21906 27681 0 0) "version.ini" ".plugins/" ".mylyn/" ".log" ".lock" ".bak_0.log" "../" "./")
+
+ ("d:/emacs/" (21910 11819 0 0) "var/" "share/" "libexec/" "bin/" ".emacs" "../" "./")
+
+ ("d:/www/aile_test/test/" (21909 63810 0 0) "test.js" "test.html" "m_story.html" "m_head.html" "mkecheng.html.bak" "mkecheng.html" "mindex2.html.bak" "mindex2.html" "mianfeiyuyue.html" "mailestory7/" "index2.html" "index.html" "../" "./")
+
+ ("d:/www/Aile/resources/views/auth/" (21906 3532 0 0) "reset.blade.php" "register.blade.php" "password.blade.php" "login.blade.php" "../" "./")
+
+ ("d:/www/aile_test/" (21908 60029 0 0) "静态动态改变文件.txt" "其它文档.txt" "zxhd/" "zjlwqsp/" "zjltjsp/" "zjl/" "zhongxinnews/" "zhongqingshi/" "zhejiangs/" "zhejiang/" "yysj/" "yypd/" "yunnansheng/" "yunnan/" "yundongtishineng/" "yundong/" "yueerhuatizjlwz/" "yueerhuatizjltjwz/" "yueerhuatizjl/" "yueerhuatiwhlwz/" "yueerhuatiwhltjwz/" "yueerhuatiwhl/" "yueerhuati/" "yscysj/" "yinyue/" "ydsj/" "xizang/" "xinjiang/" "wzxw/" "wz/" "www.ico.la_fc17ab1a5847a701d9d443678893cbb4_16X16.ico" "wumei4yue.html" "wumei/" "wqsp/" "wqhdhg/" "whyxzal/" "whlwqsp/" "whltjsp/" "whlcs/" "whl/" "wdalsj/" "WaterGym/" "Water Gym/" "vote/" "uploadfiles/" "tupianzjl/" "tupianwhl/" "tupianshl/" "tupiankcl/" "tupian/" "tuijianshipin/" "tu/" "tsnsj/" "tpnews/" "tp/" "tjwz/" "tjtp/" "tjsp/" "tianjinshi/" "tianjin/" "Thumbs.db" "test.php" "test.htm" "test/" "templates/" "tag.php" "sichuansheng/" "sichuan/" "shunjianshipinzjlwqsp/" "shunjianshipinzjltjsp/" "shunjianshipinzjl/" "shunjianshipinwhltjsp/" "shunjianshipinwhl/" "shunjianshipinshlwqsp/" "shunjianshipinshltjsp/" "shunjianshipinshl/" "shunjianshipinkclwqsp/" "shunjianshipinkcltjsp/" "shunjianshipinkcl/" "shunjianshipin/" "shunjian/" "show.php" "shlsj/" "shl/" "shipin/" "shenqing/" "shanxisheng/" "shanxis/" "shanxin/" "shanxi/" "shanghai/" "shandong/" "search.php" "Runtime1/" "rss.php" "question/" "qinghai/" "post.php" "plugins/" "pinpaihuodong/" "picturetupian/" "picture/" "partysj/" "party/" "ourstory/" "oldyimeier/" "ningxia/" "newstp/" "news/" "neimenggu/" "namenggu/" "myaile/" "music/" "monile/" "mobilemobile/" "mobile/" "mibile/" "mfstlv/" "mfstbaling/" "mfst/" "message.php" "member.php" "member/" "meishu/" "meishimeike/" "list.php" "linfenxinwenzhongxin/" "linfen/" "liaoning/" "LetterLand/" "kunming.php" "kclwqsp/" "kcl/" "js.php" "joinus/" "jmallc/" "jklwz/" "jkltjwz/" "jkl/" "jilin/" "jiaruwomen/" "jiaru/" "jiangxi/" "jiangsu/" "jiameng/" "jcsjzjl/" "jchmzj/" "indexlinfen.php" "indexkunming.php" "indexchangsha.php" "indexbanner/" "index2.html" "index1.html" "index.php" "index.html" "include/" "images/" "ibdata1.rar" "huodong/" "hunansheng/" "hunan/" "hubeisheng/" "hubei/" "html/" "hmtpzj/" "hmtpwh/" "hmtpshl/" "hmtpkc/" "hmcs/" "henansheng/" "henan/" "heilongjiang/" "hebeisheng/" "hebei/" "handtest.php" "Handlanding.php" "handcourse.php" "hainan/" "Gymmerbuzz/" "gushi/" "guizhou/" "guangxi/" "guangdongsheng/" "guangdong/" "global.php" "fuli/" "fujian/" "flzx/" "FitKid/" "FitBaby/" "findusshanxisheng/" "findus/" "englishcourse/" "editor/" "ecs_region(ecshop).sql" "download/" "down.php" "dede_area(利用织梦区域gbk).sql" "data0119.zip" "data0109.rar" "czl/" "cs/" "cqsj/" "courseFunctions.php" "course/" "CookingFun/" "contactus/" "common/" "comment.php" "ckfinder/" "ckeditor/" "chuqu/" "chongqing/" "chengdushi/" "changshazhongxinyuanxiaojiehuodongzhaopian/" "cache/" "bj/" "beijing/" "Art/" "animateJS/" "anhui/" "alzpsj/" "alzc/" "alyyx/" "alwhl/" "alry/" "alkcphone/" "aljmsj/" "alhjphone/" "alhdphone/" "algsphone/" "ailezaojiaoxiaomayizhuangyuanhuodong/" "ailezaojiaopapasai/" "ailetaohuajiehuodonghuigu/" "aileshengyin/" "ailefulizhongxinhuanjing2/" "ailedayuechengxinglongjiayuanhuanleshequxingzuohaozhaopian/" "ailedayuechengeryuepapasai/" "ailecityzhejiang/" "ailecity/" "aile1222.sql" "aile1124.sql" "aile1028.sql" "aile1027.sql" "aile0109.sql" "aile0103.sql" "aile.sql" "admincp.php" "admin/" "actions.php" "actions/" "action.php" "1428392788.html" "111" ".settings/" ".project" ".buildpath" "../" "./")
+
+ ("d:/www/aile_test/mobile/" (21910 10440 0 0) "zxhd/" "yysj/" "yypd/" "yscysj/" "ynsj/" "ydsj/" "ydazt/" "wmzc/" "wmbzsj/" "whyjoinus/" "whatzj/" "tzqj/" "tsnsj/" "tjsj/" "test.js" "test.html" "spfl/" "sjsx/" "sjshanx/" "sjgd/" "sjcq/" "sjcd/" "sjbj/" "sh/" "sc/" "rlzy/" "qszt/" "nmgsj/" "mxbbsj/" "mfkcty/" "lxwm/" "list_1.html" "jzjlbsj/" "jssj/" "js/" "jrwm/" "jmwdsj/" "jm/" "index1.html" "index.html" "images/" "henasj/" "heb/" "hbsj/" "gzztsj/" "czzjsj/" "czsbal/" "css/" "cqsj/" "bww/" "bjflzx/" "bjdxg/" "bj/" "alzxsj/" "alkcphone/" "aljs/" "alhjphone/" ".#index.html" "../" "./")
+
+ ("d:/emacs/share/info/" (21801 2829 0 0) "woman.info" "wisent.info" "widget.info" "viper.info" "vip.info" "url.info" "tramp.info" "todo-mode.info" "srecode.info" "speedbar.info" "smtpmail.info" "sieve.info" "ses.info" "semantic.info" "sc.info" "sasl.info" "remember.info" "reftex.info" "rcirc.info" "pgg.info" "pcl-cvs.info" "org.info" "octave-mode.info" "nxml-mode.info" "newsticker.info" "mh-e.info" "message.info" "mairix-el.info" "info.info" "ido.info" "idlwave.info" "htmlfontify.info" "gnus.info" "forms.info" "flymake.info" "eww.info" "eudc.info" "eshell.info" "ert.info" "erc.info" "epa.info" "emacs.info" "emacs-mime.info" "emacs-gnutls.info" "elisp.info" "eintr.info" "eieio.info" "efaq.info" "efaq-w32.info" "edt.info" "ediff.info" "ede.info" "ebrowse.info" "dired-x.info" "dir" "dbus.info" "cl.info" "ccmode.info" "calc.info" "bovine.info" "autotype.info" "auth.info" "ada-mode.info" "../" "./")
+
+ ("d:/www/Aile/app/Http/Requests/" (21897 7114 0 0) "Request.php" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

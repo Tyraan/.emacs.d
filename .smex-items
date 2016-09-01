@@ -1,0 +1,25 @@
+
+;; ----- smex-history -----
+(
+ package-list-packages
+ package-install
+ dired
+ speedbar
+ yank
+ recover-file
+ load-theme
+)
+
+;; ----- smex-data -----
+(
+ (help . 1)
+ (color-theme-sanityinc-tomorrow-day . 2)
+ (color-theme-compare . 1)
+ (load-theme . 8)
+ (yank . 3)
+ (recover-file . 2)
+ (package-install . 2)
+ (speedbar . 1)
+ (dired . 1)
+ (package-list-packages . 1)
+)
